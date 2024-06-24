@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me:Dedicated  computer science student</h2>
+<h2 align="left">About me: Dedicated  computer science student</h2>
 
 ###
 
